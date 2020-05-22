@@ -1,12 +1,10 @@
 <h1 align="center"><br>
-
-## Resume
-
-  <img src="https://github.com/claudiopelizari/pelizari.github.io/blob/master/img/cover-resume.jpg" alt="" width="100%"><br><br>
+  Resume - Claudio Pelizari
+  <img src="https://github.com/claudiopelizari/pelizari.github.io/blob/master/img/cover-resume.jpg" alt="" width="100%">
+  <br><br><br><br>
 </h1>
 
-
-## 📄 pelizari.github.io
+## 📄 Tema
 
 Este tema apresenta no layout uma barra lateral fixa na esquerda, com seções de conteúdo para criar um currículo simples e elegante para compartilhar suas experiências e habilidades.
 <br><br><br>
