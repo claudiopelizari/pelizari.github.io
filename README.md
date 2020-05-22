@@ -1,7 +1,7 @@
 <h1 align="center"><br>
-  Resume - Claudio Pelizari
+  Resume - Claudio Pelizari<br><br>
   <img src="https://github.com/claudiopelizari/pelizari.github.io/blob/master/img/cover-resume.jpg" alt="" width="100%">
-  <br><br><br><br>
+  <br><br>
 </h1>
 
 ## 📄 Tema
